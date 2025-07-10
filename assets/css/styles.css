@@ -244,7 +244,7 @@ img {
 
 .home__blob {
   fill: var(--first-color);
-  fill: rgb(108, 113, 214);
+  fill: rgb(255, 255, 255);
 }
 
 .home__blob-img {
